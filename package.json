@@ -1,0 +1,11 @@
+{
+    "name": "io.infinitecanvas.poolingutility",
+    "version": "1.0.0",
+    "displayName": "Pooling Utility",
+    "description": "Makes pooling more comfy",
+    "unity": "6000.1",
+    "license": "MIT",
+    "author": {
+        "name": "Infinite Canvas"
+    }
+}
