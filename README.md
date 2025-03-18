@@ -93,3 +93,7 @@ Each marked class gets these static methods:
 - Classes must be marked as `partial` and at least `internal`
 - Source generation (with this source generator) requires Unity 6+
 - Custom actions must be valid C# expressions as strings
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
